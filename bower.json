@@ -1,0 +1,28 @@
+{
+  "name": "ableplayer",
+  "description": "fully accessible HTML5 media player",
+  "main": [
+    "thirdparty/modernizr.custom.js",
+    "thirdparty/js.cookie.js",
+    "build/ableplayer.min.css",
+    "build/ableplayer.min.js"
+  ],
+  "dependencies": {
+    "jQuery": "~3.2.1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "508",
+    "video",
+    "player"
+  ],
+  "homepage": "https://github.com/CyberNinjas/ableplayer",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
